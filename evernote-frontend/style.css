@@ -1,0 +1,13 @@
+div {
+  border: 2px solid black;
+}
+
+.note {
+  margin: 1em;
+}
+
+#notes-list .note:hover {
+  background-color: lightblue;
+  opacity: 0.5;
+  color: black;
+}
